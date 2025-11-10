@@ -24,4 +24,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: tu-usuario/mi-proyecto-docker:latest
+        tags: mrjohnwick95/helloworld-with-server:latest
